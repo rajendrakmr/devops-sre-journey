@@ -1,4 +1,3 @@
-# devops-sre-journey
 🚀 DevOps & SRE Roadmap
 1. Foundations
 
@@ -16,15 +15,15 @@ Package managers (apt, yum, dnf)
 _____________________________________________________________
 
 Shell scripting (Bash): loops, conditionals, functions, cron jobs
-
+_____________________________________________________________
 Networking Basics
     TCP/IP, DNS, HTTP/HTTPS, Load Balancing
     Firewalls, proxies, VPN
-
+_____________________________________________________________
 Programming/Scripting
     Python, Go, or another automation-friendly language
     API usage (REST, gRPC)
-
+_____________________________________________________________
 2. Version Control & Collaboration
 
     Git basics (branches, merges, PRs, rebasing)
@@ -58,7 +57,7 @@ _____________________________________________________________
     Build automation (Maven, Gradle, npm, etc.)
     Testing in pipelines (unit, integration, security scans)
     Continuous Delivery vs Continuous Deployment
-
+_____________________________________________________________
 4. Infrastructure as Code (IaC)
 
     Terraform → infra provisioning
@@ -107,7 +106,7 @@ Kubernetes
     Helm basics (packaging Kubernetes apps)
     Debugging (kubectl logs, kubectl describe, kubectl exec)
     RBAC (Roles, RoleBindings, ServiceAccounts)
-
+_____________________________________________________________
 6. Cloud Platforms
 
     Pick one major cloud provider deeply (AWS, GCP, Azure)
@@ -130,7 +129,7 @@ Advanced/DevOps-Oriented
     CloudFormation (AWS-native IaC)
     AWS CLI & SDK (automation)
     CI/CD: CodeCommit, CodePipeline, CodeDeploy
-
+_____________________________________________________________
 7. Monitoring, Logging & Observability
 
     Metrics → Prometheus, Grafana
@@ -149,13 +148,13 @@ Grafana
     Variables & templating for reusable dashboards
     Alerting in Grafana
     Integrations (Loki for logs, Tempo/Jaeger for tracing)
-
+_____________________________________________________________
 8. Reliability & Scalability
     High availability design (multi-zone, multi-region)
     Load balancing (NGINX, HAProxy, Envoy)
     Caching (Redis, Memcached, CDN)
     Chaos Engineering (Gremlin, Chaos Mesh)
-
+_____________________________________________________________
 9. Security & Compliance
 
     Secrets management (Vault, SOPS, KMS)
@@ -163,17 +162,12 @@ Grafana
     Container security (Trivy, Aqua, Falco)
     CI/CD security (SAST, DAST)
     Compliance frameworks (SOC2, ISO, HIPAA basics)
-
+_____________________________________________________________
 10. Automation & Advanced Practices
 
     ChatOps (Slack + automation)
     Policy as Code (OPA, Kyverno)
     FinOps (cost optimization in cloud)
     Platform Engineering (internal DevOps platforms)
-
-11. Soft Skills & Culture
-
-    Incident response & postmortems
-    On-call rotations
-    Collaboration with dev teams
-    Writing runbooks & documentation
+_____________________________________________________________
+ 
